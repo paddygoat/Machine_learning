@@ -1,4 +1,5 @@
 #!/bin/bash
+printf "\033c"
 
 echo""
 echo -e "\e[41m\e[36m------------------ Questionnaire begin --------------------\e[0m"
@@ -37,6 +38,7 @@ for i in ${!options[@]}; do
 done
 echo "$msg"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -72,6 +74,7 @@ for i in ${!options[@]}; do
 done
 echo "$msg"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -109,6 +112,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -146,6 +150,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -183,6 +188,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -220,6 +226,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -257,6 +264,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -294,6 +302,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -331,6 +340,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -368,6 +378,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -405,6 +416,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -442,6 +454,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -479,6 +492,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -516,6 +530,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -553,6 +568,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -590,6 +606,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -627,6 +644,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -664,6 +682,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -701,6 +720,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -738,6 +758,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -775,6 +796,7 @@ echo "$msg"
 #echo "paddy3= " "$paddy3"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
+printf "\033c"
 
 ##########################################################################################
 
@@ -814,6 +836,7 @@ echo "$msg"
 #echo -e "\e[41m\e[36mpaddy3 = $paddy3\e[0m"
 echo -e "\e[7mData so far = $paddy3\e[0m"
 #echo $paddy3 > fungusFile.txt
+printf "\033c"
 
 ##########################################################################################
 
